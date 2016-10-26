@@ -1,0 +1,7 @@
+Substance painter is a way for objects to emenate real testures while actually being 
+completely flat surfaced.The second video is all about starting your file the right way,
+and the first step do doing it right is to know where your substances are going in the end.
+Working withing an uploaded file you can change and edit the mesh however, this will re-
+compute the layout.Along with that you actually cannot add, nor delete mesh materials from 
+the project. Now that doesnt mean you cant change the polygons or the UV layout. Baking 
+seems to be solidifying the changes and matching it to the UV's.

@@ -1,0 +1,8 @@
+In the third painter video you see that a lot of where the materials are, are placed 
+similarly to substance designer. They are each in their own little category, the textures,
+the paterns, the backgrounds, etc. One category that seems new is the tools, which contains
+brushes and material settings. Im porting your own textures is simple, you just drag it over 
+and place it into the program. Whats nice is that it stays within its categoric area. However,
+these imports will not be perminant outside of the current project. If you want the materials 
+to be perminant you will have to place them in the shelf folder, inside the substance painter 
+folder.

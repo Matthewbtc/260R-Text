@@ -1,0 +1,7 @@
+Substance painter is a 3D modeling paint program that alows you to lay substances ontop of 3D models.
+In the first video they talk about PBR, PBR is a more realistic way to render textures. It uses real
+world proporties to determain where the shades and lights are layed out. It not only makes it easier 
+to create realistic looking textures, but it can also be used to make stylistic textures. Later it 
+goes into details about the PBR workflow, or the layers of how it all works. Each layer gives off 
+details that all lead up to the full blown texture. Base color, roughness, matalic, diffuse, 
+glossyness, normals, etc. They all play a roll in the final texture.

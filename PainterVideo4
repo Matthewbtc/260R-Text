@@ -1,0 +1,7 @@
+Painter uses textures as paints that you can spash onto an object, or a material in the program.
+Materials are the actual 3D model that you have created in Maya or some other 3D rendering program,
+it is improted into Painter where you are able to paint textures onto them. Before you import them 
+into Painter however you should make the materials into set groups. Having the materials not in 
+groups can lead to many problems including painting on all the wrong 3D materials. Setting your 
+materials into groups may also leads to a better, and mor organized display of your final product.
+

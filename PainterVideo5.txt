@@ -1,0 +1,6 @@
+In Painter baking textures seems to be a pre work set up that you will want to do so that you know your
+textures are good and ready. Baking textures will be applied to your additional maps, the given texture
+maps.Baking is one, if not the first thing you will do when you get your project started. When baking, 
+the virtual envelope should not be parallel with the mesh, having it offset will make it continuous.
+However, finding out the bestpossible outcome, boils down to trail and error. Too low, it becomes flat,
+unrealistic shading, and the mesh starts to miss details.Too high, and there are oddities and purtrutions.

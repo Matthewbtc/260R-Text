@@ -1,0 +1,7 @@
+Layers in painter work much like the layers in photoshop, or any other program with layers. The 
+layer that is on top in the layer list is also on top of the painted layers. So painting dirt
+onto a red testure, you would want the dirt to be on the top layer. This makes the dirt look as
+though it was slapped onto the red. When placing a noise onto a model use planer to rid of any
+unwanted seams that may occur, making it a seamless projector. When you have plastered the model
+with a texture, if it starts to warp or unalign, just use the tri-planer projection and it will 
+align in unison.

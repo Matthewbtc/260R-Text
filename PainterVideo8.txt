@@ -1,0 +1,6 @@
+Painting onto the channel is like painting the texture you want on your 3D object. Its a little hard 
+to explain, but the more rough you want something the darker you would want it to be painted. This 
+system works kind of like a gradient scale, white being smooth and black being rough. And also, if you
+create a decent amount of the texture you want on a surface, and yet the texture feels too strong, in 
+the layer you can lower the opacity and make it look and feel less intence. You can also use this you 
+your advantage to mix textures to get the ideal texture you want.

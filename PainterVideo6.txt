@@ -1,0 +1,6 @@
+in the 3D view port you can hold down the alt button to move around and pivot the 3D model. The
+shift key however, changes the casting light's angle. You can also view your model in a 2D perspecive.
+This will unfold the object but keeps the lighting as interactive as it was in the 3D perspective.
+You can also view the hight, base color, or matalic to view your model as a whole in one of those 
+settings. In the hight mask you can actually personalize the hights color to whichever fits your needs
+best. This will change the black and white to a blue red, or yellow gree, any color combo you want.

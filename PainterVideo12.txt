@@ -1,0 +1,7 @@
+To creat a good weathered look, you need to use layers. Layers that stack ontop of eachother
+become very useful on this process. Having a bace layer, in the video the paint, on top will 
+give the appearence that whatever shows underneath is coated with something. Adding a black 
+layer mask will enable you to take away from the paint layer and reveal whatever it is you 
+want to show underneath, in this case metal. You dont even need to paint out all the deatils,
+you can go into proporties, and select a generaor that will randomly create some kind of
+weathered look.

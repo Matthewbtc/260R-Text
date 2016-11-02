@@ -1,0 +1,6 @@
+When you paint in the viewport you paint with both the brush settings and also with the material 
+that you have selected. Its combonation of the two that gives you the aparent textures on your 3D
+model. If you change one, the other will stay the same. This can give you a number of different 
+looks and styles in your textures. Painting and using the brush in the 2D mode can give you seamless
+smooth strokes. However, it will bleed over to another side if you are not careful. Select alignment
+to UV if you want the brush strokes to stay within the UV mapping.

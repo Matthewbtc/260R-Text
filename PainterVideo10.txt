@@ -1,0 +1,6 @@
+Particals seem to be another setting along with brushes that give the brush stroke life and
+an action path. When creating a stroke, the particals can interact differently with the 
+stroke that was given. For example, one stroke can smear particals down the pathway of the
+stroke. This gives a new lively feel to the stroke. You can change the stroke settings by 
+giving the appearence of heavier/lighter gravity and wind, these effect the smear direction,
+length, and thickness.

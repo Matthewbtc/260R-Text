@@ -1,0 +1,7 @@
+Layer masks work in two ways, and to me there can be a little confusing. There is a white and
+a black layer mask, and they both work in different ways. The white mask works as a remover,
+whatever you paint on your layer will be gone, youre essentially removing your layer paint.
+However, with the black layer mask it is the opposite. Starting out with no visable layer
+you paint onto it what you want to see of the layer. Using the black layer mask in a practical
+setting, you could use the fill brush (partical) to fill in a surface to the edge. The fill 
+brush will spread till it hits the edge of the normal map data.

@@ -1,0 +1,9 @@
+Smart materials are actually a collection of layers within a layer stack that have been saved as a 
+preset material. This make possible for complex materials, such as makeing layers apon layers of 
+different textures. Not only can it be a compilation of textures, but of different effects too. Its
+sort of like making a spice cake, blending all the ingredients into one bowl to make something with lots 
+of flavors. Some of those ingredients are essencial for it to be a cake (or appear to be a metal texture)
+but some are added for detailed effects. These materials can be saved and imprinted apon other objects.
+You can also change the details of a smart material once added to another object, so to make the objects 
+seem realistc and slightly different. In order for this auto connection to work, the textures need to
+be placed in the additional map imputs. 

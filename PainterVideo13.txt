@@ -1,0 +1,6 @@
+The projection tool allows the user to project an image onto the mesh, hence the name. The
+projection tool is mainly used with a full material. Where as the stensile is used as a 
+secondary screen space mask. What that means is that an image is projected as a layer over 
+your mesh. Like the black layer mask, you paint where the brush strokes were made; however,
+the brush strokes mirror the textures that where the projected in the projected layer. This
+can leave cool, easy, and time saving designs instead of creating one of your own and importing.
